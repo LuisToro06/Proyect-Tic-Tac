@@ -9,7 +9,7 @@ def mostrar_tablero(board):
         print("|")
         print("|       " * 3,"|", sep="")
         print("+-------" * 3,"+", sep="")
-
+print("Algun cambió")
 def movimiento(board):
     okay = False
     while not okay:
